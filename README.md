@@ -187,4 +187,4 @@ MIT License - See LICENSE file for details
 
 ## Questions?
 
-Open an issue on GitHub or reach out for help!
+Open an issue on GitHub or reach out for help! 
