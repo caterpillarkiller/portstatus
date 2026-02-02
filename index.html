@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USCG Port Status Monitor</title>
+    
+    <!-- Mapbox CSS -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
+    
+    <!-- Our custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="map"></div>
+    
+    <!-- Legend -->
+    <div class="legend">
+        <h3>Port Condition</h3>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #2ecc71;"></span>
+            <span>NORMAL - Open without restrictions</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #f1c40f;"></span>
+            <span>WHISKEY - Advisory conditions</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #f39c12;"></span>
+            <span>X-RAY - Moderate restrictions</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #e67e22;"></span>
+            <span>YANKEE - Significant restrictions</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #e74c3c;"></span>
+            <span>ZULU - Port closed</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-color" style="background-color: #7f8c8d;"></span>
+            <span>UNKNOWN - No data available</span>
+        </div>
+    </div>
+    
+    <!-- Info panel for updates -->
+    <div class="info-panel">
+        <p id="last-update">Last updated: Loading...</p>
+    </div>
+    
+    <!-- Mapbox JS -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
+    
+    <!-- Configuration (contains API keys) -->
+    <script src="config.js"></script>
+    
+    <!-- Our app JS -->
+    <script src="app.js"></script>
+</body>
+</html>

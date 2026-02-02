@@ -1,0 +1,19 @@
+# IMPORTANT: Keep your API keys private!
+config.js
+
+# Environment variables
+.env
+.env.local
+
+# Other sensitive files
+secrets.js
+
+# Node modules (if you use npm later)
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/

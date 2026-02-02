@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9253, 32.7765]
+      },
+      "properties": {
+        "name": "Port of Charleston",
+        "condition": "NORMAL",
+        "details": "Home port! All operations normal. No restrictions in effect.",
+        "lastUpdated": "2026-02-01T10:00:00Z",
+        "nextUpdate": "2026-02-01T16:00:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1918, 25.7617]
+      },
+      "properties": {
+        "name": "Port of Miami",
+        "condition": "NORMAL",
+        "details": "All operations normal. No restrictions in effect.",
+        "lastUpdated": "2026-02-01T10:00:00Z",
+        "nextUpdate": "2026-02-01T16:00:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.2631, 29.7604]
+      },
+      "properties": {
+        "name": "Port of Houston",
+        "condition": "WHISKEY",
+        "details": "Weather advisory in effect. Expect minor delays.",
+        "lastUpdated": "2026-02-01T09:30:00Z",
+        "nextUpdate": "2026-02-01T15:30:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 33.7405]
+      },
+      "properties": {
+        "name": "Port of Long Beach",
+        "condition": "NORMAL",
+        "details": "Port operating under normal conditions.",
+        "lastUpdated": "2026-02-01T08:00:00Z",
+        "nextUpdate": "2026-02-01T14:00:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3321, 47.6062]
+      },
+      "properties": {
+        "name": "Port of Seattle",
+        "condition": "X-RAY",
+        "details": "Moderate restrictions due to high winds. Container operations limited.",
+        "lastUpdated": "2026-02-01T07:45:00Z",
+        "nextUpdate": "2026-02-01T13:45:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0445, 40.6892]
+      },
+      "properties": {
+        "name": "Port of New York/New Jersey",
+        "condition": "NORMAL",
+        "details": "All terminals operational.",
+        "lastUpdated": "2026-02-01T11:00:00Z",
+        "nextUpdate": "2026-02-01T17:00:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0715, 29.9511]
+      },
+      "properties": {
+        "name": "Port of New Orleans",
+        "condition": "YANKEE",
+        "details": "Significant restrictions in place due to storm approach. Limited vessel movement.",
+        "lastUpdated": "2026-02-01T10:30:00Z",
+        "nextUpdate": "2026-02-01T12:30:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0589, 42.3601]
+      },
+      "properties": {
+        "name": "Port of Boston",
+        "condition": "WHISKEY",
+        "details": "Winter storm advisory. Vessel delays possible.",
+        "lastUpdated": "2026-02-01T09:00:00Z",
+        "nextUpdate": "2026-02-01T15:00:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0364, 32.0809]
+      },
+      "properties": {
+        "name": "Port of Savannah",
+        "condition": "NORMAL",
+        "details": "Operations normal. No delays expected.",
+        "lastUpdated": "2026-02-01T10:15:00Z",
+        "nextUpdate": "2026-02-01T16:15:00Z"
+      }
+    }
+  ]
+}

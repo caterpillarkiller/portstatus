@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagnostic Test</title>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .test { margin: 10px 0; padding: 10px; border-radius: 5px; }
+        .pass { background-color: #d4edda; color: #155724; }
+        .fail { background-color: #f8d7da; color: #721c24; }
+        .pending { background-color: #fff3cd; color: #856404; }
+    </style>
+</head>
+<body>
+    <h1>USCG Port Status - Diagnostic Test</h1>
+    
+    <div id="test1" class="test pending">⏳ Test 1: Loading config.js...</div>
+    <div id="test2" class="test pending">⏳ Test 2: Loading Mapbox library...</div>
+    <div id="test3" class="test pending">⏳ Test 3: Setting Mapbox token...</div>
+    <div id="test4" class="test pending">⏳ Test 4: Fetching ports.geojson...</div>
+    
+    <div id="error-details" style="margin-top: 20px;"></div>
+    
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
+    <script src="config.js"></script>
+    <script>
+        // Test 1: Config.js loaded
+        const test1 = document.getElementById('test1');
+        if (typeof CONFIG !== 'undefined' && CONFIG.mapboxToken) {
+            test1.className = 'test pass';
+            test1.textContent = '✅ Test 1: config.js loaded successfully';
+        } else {
+            test1.className = 'test fail';
+            test1.textContent = '❌ Test 1: config.js failed to load';
+        }
+        
+        // Test 2: Mapbox library loaded
+        const test2 = document.getElementById('test2');
+        if (typeof mapboxgl !== 'undefined') {
+            test2.className = 'test pass';
+            test2.textContent = '✅ Test 2: Mapbox library loaded successfully';
+        } else {
+            test2.className = 'test fail';
+            test2.textContent = '❌ Test 2: Mapbox library failed to load';
+        }
+        
+        // Test 3: Set Mapbox token
+        const test3 = document.getElementById('test3');
+        try {
+            mapboxgl.accessToken = CONFIG.mapboxToken;
+            test3.className = 'test pass';
+            test3.textContent = '✅ Test 3: Mapbox token set (starts with ' + CONFIG.mapboxToken.substring(0, 10) + '...)';
+        } catch (error) {
+            test3.className = 'test fail';
+            test3.textContent = '❌ Test 3: Failed to set token - ' + error.message;
+        }
+        
+        // Test 4: Fetch ports.geojson
+        const test4 = document.getElementById('test4');
+        fetch('api/ports.geojson')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('HTTP ' + response.status + ' - ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                test4.className = 'test pass';
+                test4.textContent = '✅ Test 4: ports.geojson loaded successfully (' + data.features.length + ' ports found)';
+                
+                // Show port names
+                const portNames = data.features.map(f => f.properties.name).join(', ');
+                document.getElementById('error-details').innerHTML = 
+                    '<div class="test pass"><strong>Ports loaded:</strong> ' + portNames + '</div>';
+            })
+            .catch(error => {
+                test4.className = 'test fail';
+                test4.textContent = '❌ Test 4: Failed to load ports.geojson';
+                
+                document.getElementById('error-details').innerHTML = 
+                    '<div class="test fail"><strong>Error details:</strong> ' + error.message + 
+                    '<br><br><strong>Expected file location:</strong> api/ports.geojson' +
+                    '<br><strong>Server must be running from:</strong> The folder containing index.html</div>';
+            });
+    </script>
+</body>
+</html>

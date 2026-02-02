@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Config</title>
+</head>
+<body>
+    <h1>Testing Config.js</h1>
+    <div id="result"></div>
+    
+    <script src="config.js"></script>
+    <script>
+        const resultDiv = document.getElementById('result');
+        
+        if (typeof CONFIG === 'undefined') {
+            resultDiv.innerHTML = '<p style="color: red;">❌ CONFIG is not defined! Check config.js</p>';
+        } else if (!CONFIG.mapboxToken) {
+            resultDiv.innerHTML = '<p style="color: orange;">⚠️ CONFIG exists but mapboxToken is missing!</p>';
+        } else if (CONFIG.mapboxToken === 'YOUR_MAPBOX_TOKEN_HERE') {
+            resultDiv.innerHTML = '<p style="color: orange;">⚠️ You need to replace YOUR_MAPBOX_TOKEN_HERE with your actual token!</p>';
+        } else {
+            resultDiv.innerHTML = '<p style="color: green;">✅ CONFIG is working! Token starts with: ' + CONFIG.mapboxToken.substring(0, 15) + '...</p>';
+        }
+    </script>
+</body>
+</html>
