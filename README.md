@@ -167,7 +167,7 @@ When using GitHub Desktop:
 - [ ] Filter ports by condition
 - [ ] Search for specific ports
 - [ ] Mobile-responsive improvements
-- [ ] Historical data tracking
+- [ ] Historical data trackinga
 - [ ] Notification system for condition changes
 - [ ] Add more ports beyond the initial 9
 
