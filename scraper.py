@@ -9,7 +9,7 @@ from typing import Dict, List
 import re
 
 
-# Port coordinates mapping (from your existing data + additions)
+# Port coordinates mapping (all 41 USCG zones)
 PORT_COORDINATES = {
     "CHARLESTON": {"lat": 32.7765, "lon": -79.9253},
     "MIAMI": {"lat": 25.7617, "lon": -80.1918},
@@ -29,6 +29,30 @@ PORT_COORDINATES = {
     "HONOLULU": {"lat": 21.3099, "lon": -157.8581},
     "DELAWARE BAY": {"lat": 39.4593, "lon": -75.4145},
     "VIRGINIA": {"lat": 36.8468, "lon": -76.2951},
+    # Additional ports
+    "COLUMBIA RIVER": {"lat": 46.2084, "lon": -123.8312},
+    "DETROIT": {"lat": 42.3314, "lon": -83.0458},
+    "DULUTH": {"lat": 46.7867, "lon": -92.1005},
+    "EASTERN GREAT LAKES": {"lat": 42.8864, "lon": -78.8784},
+    "GUAM": {"lat": 13.4443, "lon": 144.7937},
+    "HOUMA": {"lat": 29.5958, "lon": -90.7195},
+    "KEY WEST": {"lat": 24.5551, "lon": -81.7800},
+    "LAKE MICHIGAN": {"lat": 43.0389, "lon": -87.9065},
+    "LONG ISLAND SOUND": {"lat": 41.0534, "lon": -73.5387},
+    "LOWER MISSISSIPPI RIVER (MEMPHIS)": {"lat": 35.1495, "lon": -90.0490},
+    "MARYLAND-NCR": {"lat": 38.9072, "lon": -77.0369},
+    "NORTH CAROLINA": {"lat": 34.7293, "lon": -76.7266},
+    "NORTHERN GREAT LAKES": {"lat": 46.4977, "lon": -84.3476},
+    "NORTHERN NEW ENGLAND (PORTLAND, MAINE)": {"lat": 43.6591, "lon": -70.2568},
+    "OHIO VALLEY": {"lat": 38.2527, "lon": -85.7585},
+    "PITTSBURGH": {"lat": 40.4406, "lon": -79.9959},
+    "PRINCE WILLIAM SOUND (VALDEZ)": {"lat": 61.1308, "lon": -146.3486},
+    "SAN JUAN": {"lat": 18.4655, "lon": -66.1057},
+    "SEAK - SOUTHEAST ALASKA (JUNEAU)": {"lat": 58.3019, "lon": -134.4197},
+    "SOUTHEASTERN NEW ENGLAND (PROVIDENCE)": {"lat": 41.8240, "lon": -71.4128},
+    "ST. PETERSBURG": {"lat": 27.7676, "lon": -82.6403},
+    "UPPER MISSISSIPPI RIVER (ST. LOUIS)": {"lat": 38.6270, "lon": -90.1994},
+    "WESTERN ALASKA (ANCHORAGE)": {"lat": 61.2181, "lon": -149.9003},
 }
 
 
