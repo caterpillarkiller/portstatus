@@ -16,4 +16,4 @@ node_modules/
 
 # Editor directories
 .vscode/
-.idea/
+.idea/config-template.html
