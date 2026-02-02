@@ -61,10 +61,12 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     font-size: 13px;
     z-index: 1;
+    max-width: 350px;
 }
 
 #last-update {
     color: #666;
+    line-height: 1.4;
 }
 
 /* Popup styling */
@@ -107,6 +109,7 @@ body {
     margin-top: 8px;
     padding-top: 8px;
     border-top: 1px solid #eee;
+    line-height: 1.5;
 }
 
 /* Hover effect for port markers */

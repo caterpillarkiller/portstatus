@@ -104,8 +104,30 @@ async function loadPorts() {
 
 // Function to create popup HTML
 function createPopupHTML(props) {
-    const lastUpdated = props.lastUpdated ? new Date(props.lastUpdated).toLocaleString() : 'Unknown';
-    const nextUpdate = props.nextUpdate ? new Date(props.nextUpdate).toLocaleString() : 'Unknown';
+    // Format timestamps in both UTC and local time
+    const formatTimestamp = (isoString) => {
+        if (!isoString) return 'Unknown';
+        
+        const date = new Date(isoString);
+        
+        // UTC time
+        const utcString = date.toUTCString();
+        
+        // Local time with timezone
+        const localString = date.toLocaleString('en-US', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            timeZoneName: 'short'
+        });
+        
+        return `${localString}<br><span style="font-size: 0.9em; color: #999;">UTC: ${utcString}</span>`;
+    };
+    
+    const lastUpdated = formatTimestamp(props.lastUpdated);
+    const nextUpdate = props.nextUpdate ? formatTimestamp(props.nextUpdate) : 'On next update cycle';
     
     return `
         <div class="popup-title">${props.name || 'Unknown Port'}</div>
@@ -114,8 +136,8 @@ function createPopupHTML(props) {
             ${props.details || 'No additional details available.'}
         </div>
         <div class="popup-timestamp">
-            <strong>Last Updated:</strong> ${lastUpdated}<br>
-            <strong>Next Update:</strong> ${nextUpdate}
+            <strong>Last Updated:</strong><br>${lastUpdated}<br><br>
+            <strong>Next Update:</strong><br>${nextUpdate}
         </div>
     `;
 }
@@ -123,8 +145,23 @@ function createPopupHTML(props) {
 // Update the last update time display
 function updateLastUpdateTime() {
     const now = new Date();
-    document.getElementById('last-update').textContent = 
-        `Last updated: ${now.toLocaleString()}`;
+    
+    // Local time
+    const localTime = now.toLocaleString('en-US', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        timeZoneName: 'short'
+    });
+    
+    // UTC time
+    const utcTime = now.toUTCString();
+    
+    document.getElementById('last-update').innerHTML = 
+        `Last updated: ${localTime}<br><span style="font-size: 0.85em; color: #999;">UTC: ${utcTime}</span>`;
 }
 
 // Refresh data every 5 minutes (300000 ms)
