@@ -23,6 +23,10 @@
     <!-- Mapbox JS -->
     <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
 
+    <!-- Mapbox token — MUST load before app.js. This file is in .gitignore locally;
+         on GitHub Pages it gets created by the deploy workflow from the secret. -->
+    <script src="config.js"></script>
+
     <!-- Our app JS -->
     <script src="app.js"></script>
 </body>
