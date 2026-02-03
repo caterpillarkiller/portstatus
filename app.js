@@ -27,7 +27,7 @@ mapboxgl.accessToken = CONFIG.mapboxToken;
 
 const map = new mapboxgl.Map({
     container: 'map',
-    style:     'mapbox://styles/mapbox/nautical-v1',
+    style:     'mapbox://styles/mapbox/light-v11',
     center:    [-98, 39],
     zoom:      3
 });
