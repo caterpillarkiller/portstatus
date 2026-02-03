@@ -17,7 +17,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR CHARLESTON (07-37090)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=CHARLESTON",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -69,7 +69,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR MIAMI",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=MIAMI",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -115,7 +115,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR HOUSTON-GALVESTON (08-37170)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=HOUSTON-GALVESTON",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -161,7 +161,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NEW YORK",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NEW YORK",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -195,7 +195,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -215,7 +215,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -235,7 +235,7 @@
         "condition": "WHISKEY",
         "comments": "Fog advisory in effect",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -255,7 +255,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -275,7 +275,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -295,7 +295,7 @@
         "condition": "ZULU",
         "comments": "CLOSED - storm damage — next update 0600 local 2026-02-03",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -315,7 +315,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - SEE MSIB 34-24",
         "last_changed": "2024-12-15",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -335,7 +335,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 31-24",
         "last_changed": "2025-09-11",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -355,7 +355,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 31-24",
         "last_changed": "2025-09-11",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -375,7 +375,7 @@
         "condition": "X-RAY",
         "comments": "WITH RESTRICTIONS - Port Condition IV MSIB22-029",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -395,7 +395,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -415,7 +415,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -435,7 +435,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -455,7 +455,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     },
@@ -475,7 +475,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-03 02:06:13",
+        "lastUpdated": "2026-02-03 05:14:15",
         "nextUpdate": ""
       }
     }
