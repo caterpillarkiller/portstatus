@@ -6,16 +6,196 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0589,
-          42.3601
+          -79.9253,
+          32.7765
         ]
       },
       "properties": {
-        "name": "Port of BOSTON",
+        "type": "cotp_zone",
+        "name": "CHARLESTON",
+        "condition": "WHISKEY",
+        "marsec_level": "MARSEC 1",
+        "sector_info": "SECTOR CHARLESTON (07-37090)",
+        "source_url": "https://www.navcen.uscg.gov/port-status?zone=CHARLESTON",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": "",
+        "sub_ports": [
+          {
+            "name": "BEAUFORT",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-02"
+          },
+          {
+            "name": "CHARLESTON",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-02"
+          },
+          {
+            "name": "GEORGETOWN",
+            "condition": "WHISKEY",
+            "comments": "Fog advisory in effect",
+            "last_changed": "2026-02-02"
+          },
+          {
+            "name": "HILTON HEAD",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-02"
+          },
+          {
+            "name": "MYRTLE BEACH",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-02"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "type": "cotp_zone",
+        "name": "MIAMI",
+        "condition": "X-RAY",
+        "marsec_level": "MARSEC 1",
+        "sector_info": "SECTOR MIAMI",
+        "source_url": "https://www.navcen.uscg.gov/port-status?zone=MIAMI",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": "",
+        "sub_ports": [
+          {
+            "name": "FORT PIERCE",
+            "condition": "X-RAY",
+            "comments": "WITH RESTRICTIONS - Port Condition IV MSIB22-029",
+            "last_changed": "2026-02-01"
+          },
+          {
+            "name": "MIAMI",
+            "condition": "NORMAL",
+            "comments": "PORTCON V",
+            "last_changed": "2026-02-01"
+          },
+          {
+            "name": "PORT EVERGLADES",
+            "condition": "NORMAL",
+            "comments": "PORTCON V",
+            "last_changed": "2026-02-01"
+          },
+          {
+            "name": "PORT OF PALM BEACH",
+            "condition": "NORMAL",
+            "comments": "PORTCON V",
+            "last_changed": "2026-02-01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2631,
+          29.7604
+        ]
+      },
+      "properties": {
+        "type": "cotp_zone",
+        "name": "HOUSTON-GALVESTON",
+        "condition": "ZULU",
+        "marsec_level": "MARSEC 1",
+        "sector_info": "SECTOR HOUSTON-GALVESTON (08-37170)",
+        "source_url": "https://www.navcen.uscg.gov/port-status?zone=HOUSTON-GALVESTON",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": "",
+        "sub_ports": [
+          {
+            "name": "FREEPORT",
+            "condition": "ZULU",
+            "comments": "CLOSED - storm damage — next update 0600 local 2026-02-03",
+            "last_changed": "2026-02-02"
+          },
+          {
+            "name": "GALVESTON",
+            "condition": "WHISKEY",
+            "comments": "WITH RESTRICTIONS - SEE MSIB 34-24",
+            "last_changed": "2024-12-15"
+          },
+          {
+            "name": "HOUSTON",
+            "condition": "NORMAL",
+            "comments": "SEE MSIB 31-24",
+            "last_changed": "2025-09-11"
+          },
+          {
+            "name": "TEXAS CITY",
+            "condition": "NORMAL",
+            "comments": "SEE MSIB 31-24",
+            "last_changed": "2025-09-11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445,
+          40.6892
+        ]
+      },
+      "properties": {
+        "type": "cotp_zone",
+        "name": "NEW YORK",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "marsec_level": "MARSEC 1",
+        "sector_info": "SECTOR NEW YORK",
+        "source_url": "https://www.navcen.uscg.gov/port-status?zone=NEW YORK",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": "",
+        "sub_ports": [
+          {
+            "name": "BROOKLYN",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-01"
+          },
+          {
+            "name": "NEW YORK",
+            "condition": "NORMAL",
+            "comments": "",
+            "last_changed": "2026-02-01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6703,
+          32.3539
+        ]
+      },
+      "properties": {
+        "type": "sub_port",
+        "name": "BEAUFORT",
+        "zone_name": "CHARLESTON",
+        "condition": "NORMAL",
+        "comments": "",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -29,11 +209,13 @@
         ]
       },
       "properties": {
-        "name": "Port of CHARLESTON",
+        "type": "sub_port",
+        "name": "CHARLESTON",
+        "zone_name": "CHARLESTON",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -42,124 +224,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.8312,
-          46.2084
+          -79.2945,
+          33.3766
         ]
       },
       "properties": {
-        "name": "Port of COLUMBIA RIVER",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3964,
-          27.8006
-        ]
-      },
-      "properties": {
-        "name": "Port of CORPUS CHRISTI",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.4145,
-          39.4593
-        ]
-      },
-      "properties": {
-        "name": "Port of DELAWARE BAY",
-        "condition": "ZULU",
-        "details": "Port closed or severe restrictions",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0458,
-          42.3314
-        ]
-      },
-      "properties": {
-        "name": "Port of DETROIT",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.1005,
-          46.7867
-        ]
-      },
-      "properties": {
-        "name": "Port of DULUTH",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.8784,
-          42.8864
-        ]
-      },
-      "properties": {
-        "name": "Port of EASTERN GREAT LAKES",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.7937,
-          13.4443
-        ]
-      },
-      "properties": {
-        "name": "Port of GUAM",
+        "type": "sub_port",
+        "name": "GEORGETOWN",
+        "zone_name": "CHARLESTON",
         "condition": "WHISKEY",
-        "details": "Advisory conditions in effect",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "Fog advisory in effect",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -168,16 +244,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.8581,
-          21.3099
+          -80.8431,
+          32.144
         ]
       },
       "properties": {
-        "name": "Port of HONOLULU",
+        "type": "sub_port",
+        "name": "HILTON HEAD",
+        "zone_name": "CHARLESTON",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -186,16 +264,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.7195,
-          29.5958
+          -78.891,
+          33.6946
         ]
       },
       "properties": {
-        "name": "Port of HOUMA",
+        "type": "sub_port",
+        "name": "MYRTLE BEACH",
+        "zone_name": "CHARLESTON",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -204,16 +284,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.2631,
+          -95.117,
+          28.542
+        ]
+      },
+      "properties": {
+        "type": "sub_port",
+        "name": "FREEPORT",
+        "zone_name": "HOUSTON-GALVESTON",
+        "condition": "ZULU",
+        "comments": "CLOSED - storm damage — next update 0600 local 2026-02-03",
+        "last_changed": "2026-02-02",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8177,
+          29.3013
+        ]
+      },
+      "properties": {
+        "type": "sub_port",
+        "name": "GALVESTON",
+        "zone_name": "HOUSTON-GALVESTON",
+        "condition": "WHISKEY",
+        "comments": "WITH RESTRICTIONS - SEE MSIB 34-24",
+        "last_changed": "2024-12-15",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
           29.7604
         ]
       },
       "properties": {
-        "name": "Port of HOUSTON-GALVESTON",
+        "type": "sub_port",
+        "name": "HOUSTON",
+        "zone_name": "HOUSTON-GALVESTON",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "SEE MSIB 31-24",
+        "last_changed": "2025-09-11",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -222,16 +344,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6557,
-          30.3322
+          -94.903,
+          29.417
         ]
       },
       "properties": {
-        "name": "Port of JACKSONVILLE",
+        "type": "sub_port",
+        "name": "TEXAS CITY",
+        "zone_name": "HOUSTON-GALVESTON",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "SEE MSIB 31-24",
+        "last_changed": "2025-09-11",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -240,106 +364,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.78,
-          24.5551
+          -80.1293,
+          27.1002
         ]
       },
       "properties": {
-        "name": "Port of KEY WEST",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.9065,
-          43.0389
-        ]
-      },
-      "properties": {
-        "name": "Port of LAKE MICHIGAN",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5387,
-          41.0534
-        ]
-      },
-      "properties": {
-        "name": "Port of LONG ISLAND SOUND",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2437,
-          33.7405
-        ]
-      },
-      "properties": {
-        "name": "Port of LOS ANGELES-LONG BEACH",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.049,
-          35.1495
-        ]
-      },
-      "properties": {
-        "name": "Port of LOWER MISSISSIPPI RIVER (MEMPHIS)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "name": "Port of MARYLAND-NCR",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "type": "sub_port",
+        "name": "FORT PIERCE",
+        "zone_name": "MIAMI",
+        "condition": "X-RAY",
+        "comments": "WITH RESTRICTIONS - Port Condition IV MSIB22-029",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -353,11 +389,13 @@
         ]
       },
       "properties": {
-        "name": "Port of MIAMI",
+        "type": "sub_port",
+        "name": "MIAMI",
+        "zone_name": "MIAMI",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "PORTCON V",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -366,16 +404,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0399,
-          30.6954
+          -80.11,
+          26.0874
         ]
       },
       "properties": {
-        "name": "Port of MOBILE",
+        "type": "sub_port",
+        "name": "PORT EVERGLADES",
+        "zone_name": "MIAMI",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "PORTCON V",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -384,16 +424,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.0715,
-          29.9511
+          -80.0364,
+          26.7315
         ]
       },
       "properties": {
-        "name": "Port of NEW ORLEANS",
+        "type": "sub_port",
+        "name": "PORT OF PALM BEACH",
+        "zone_name": "MIAMI",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "PORTCON V",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
+        "nextUpdate": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9442,
+          40.6782
+        ]
+      },
+      "properties": {
+        "type": "sub_port",
+        "name": "BROOKLYN",
+        "zone_name": "NEW YORK",
+        "condition": "NORMAL",
+        "comments": "",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     },
@@ -407,335 +469,13 @@
         ]
       },
       "properties": {
-        "name": "Port of NEW YORK",
+        "type": "sub_port",
+        "name": "NEW YORK",
+        "zone_name": "NEW YORK",
         "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7266,
-          34.7293
-        ]
-      },
-      "properties": {
-        "name": "Port of NORTH CAROLINA",
-        "condition": "WHISKEY",
-        "details": "Advisory conditions in effect",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3476,
-          46.4977
-        ]
-      },
-      "properties": {
-        "name": "Port of NORTHERN GREAT LAKES",
-        "condition": "ZULU",
-        "details": "Port closed or severe restrictions",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.2568,
-          43.6591
-        ]
-      },
-      "properties": {
-        "name": "Port of NORTHERN NEW ENGLAND (PORTLAND, MAINE)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7585,
-          38.2527
-        ]
-      },
-      "properties": {
-        "name": "Port of OHIO VALLEY",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9959,
-          40.4406
-        ]
-      },
-      "properties": {
-        "name": "Port of PITTSBURGH",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.93,
-          29.9544
-        ]
-      },
-      "properties": {
-        "name": "Port of PORT ARTHUR AND LAKE CHARLES",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.3486,
-          61.1308
-        ]
-      },
-      "properties": {
-        "name": "Port of PRINCE WILLIAM SOUND (VALDEZ)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1611,
-          32.7157
-        ]
-      },
-      "properties": {
-        "name": "Port of SAN DIEGO",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4194,
-          37.7749
-        ]
-      },
-      "properties": {
-        "name": "Port of SAN FRANCISCO",
-        "condition": "WHISKEY",
-        "details": "Advisory conditions in effect",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.1057,
-          18.4655
-        ]
-      },
-      "properties": {
-        "name": "Port of SAN JUAN",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0901,
-          32.1368
-        ]
-      },
-      "properties": {
-        "name": "Port of SAVANNAH",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -134.4197,
-          58.3019
-        ]
-      },
-      "properties": {
-        "name": "Port of SEAK - SOUTHEAST ALASKA (JUNEAU)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3321,
-          47.6062
-        ]
-      },
-      "properties": {
-        "name": "Port of SEATTLE (PUGET SOUND)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4128,
-          41.824
-        ]
-      },
-      "properties": {
-        "name": "Port of SOUTHEASTERN NEW ENGLAND (PROVIDENCE)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6403,
-          27.7676
-        ]
-      },
-      "properties": {
-        "name": "Port of ST. PETERSBURG",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.1994,
-          38.627
-        ]
-      },
-      "properties": {
-        "name": "Port of UPPER MISSISSIPPI RIVER (ST. LOUIS)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.2951,
-          36.8468
-        ]
-      },
-      "properties": {
-        "name": "Port of VIRGINIA",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
-        "nextUpdate": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.9003,
-          61.2181
-        ]
-      },
-      "properties": {
-        "name": "Port of WESTERN ALASKA (ANCHORAGE)",
-        "condition": "NORMAL",
-        "details": "All operations normal. No restrictions in effect.",
-        "marsec_level": "MARSEC-1",
-        "lastUpdated": "2026-02-02 05:49:07",
+        "comments": "",
+        "last_changed": "2026-02-01",
+        "lastUpdated": "2026-02-03 02:06:13",
         "nextUpdate": ""
       }
     }

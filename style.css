@@ -1,3 +1,7 @@
+/* ==========================================================
+   USCG Port Status Map — Styles
+   ========================================================== */
+
 * {
     margin: 0;
     padding: 0;
@@ -5,114 +9,105 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    overflow: hidden;
+    height: 100vh;
 }
 
 #map {
-    position: absolute;
-    top: 0;
-    bottom: 0;
     width: 100%;
+    height: 100vh;
 }
 
-/* Legend styling */
-.legend {
-    position: absolute;
-    bottom: 30px;
-    right: 10px;
-    background-color: white;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    font-size: 14px;
-    max-width: 280px;
-    z-index: 1;
-}
-
-.legend h3 {
-    margin-bottom: 10px;
-    font-size: 16px;
-    color: #333;
-}
-
-.legend-item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 8px;
-}
-
-.legend-color {
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    margin-right: 10px;
-    border: 1px solid #fff;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-}
-
-/* Info panel */
-.info-panel {
+/* --------------- Info panel (top-left) --------------- */
+#info-panel {
     position: absolute;
     top: 10px;
     left: 10px;
-    background-color: white;
-    padding: 10px 15px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 12px 16px;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    font-size: 13px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
     z-index: 1;
-    max-width: 350px;
+    max-width: 240px;
+    backdrop-filter: blur(4px);
 }
 
-#last-update {
-    color: #666;
-    line-height: 1.4;
+/* --------------- Legend (bottom-left) --------------- */
+#legend {
+    position: absolute;
+    bottom: 30px;
+    left: 10px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 12px 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    z-index: 1;
+    backdrop-filter: blur(4px);
 }
 
-/* Popup styling */
+/* --------------- Mapbox popup overrides --------------- */
+.mapboxgl-popup {
+    /* slightly wider, rounder */
+}
+
 .mapboxgl-popup-content {
-    padding: 15px;
-    min-width: 200px;
+    padding: 14px 16px;
+    border-radius: 8px;
+    font-family: inherit;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+/* --------------- Popup internals --------------- */
+.popup-content {
+    /* wrapper — keeps everything tidy */
 }
 
 .popup-title {
-    font-weight: bold;
     font-size: 16px;
-    margin-bottom: 8px;
-    color: #333;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 4px;
 }
 
-.popup-status {
-    display: inline-block;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-weight: bold;
-    margin-bottom: 8px;
-    color: white;
-}
-
-.popup-status.NORMAL { background-color: #2ecc71; }
-.popup-status.WHISKEY { background-color: #f1c40f; color: #333; }
-.popup-status.X-RAY { background-color: #f39c12; }
-.popup-status.YANKEE { background-color: #e67e22; }
-.popup-status.ZULU { background-color: #e74c3c; }
-
-.popup-details {
-    font-size: 13px;
+.popup-time {
+    font-size: 12px;
     color: #555;
-    line-height: 1.5;
-}
-
-.popup-timestamp {
-    font-size: 11px;
-    color: #999;
     margin-top: 8px;
-    padding-top: 8px;
+    padding-top: 6px;
     border-top: 1px solid #eee;
-    line-height: 1.5;
 }
 
-/* Hover effect for port markers */
-#map canvas {
-    cursor: pointer;
+/* --------------- Sub-port table inside zone popup --------------- */
+.popup-content table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.popup-content table td {
+    padding: 3px 2px;
+    vertical-align: middle;
+}
+
+/* --------------- Notes box (sub-port popup) --------------- */
+.popup-content .notes-box {
+    background: #f7f7f7;
+    border-radius: 0 4px 4px 0;
+    padding: 6px 8px;
+    font-size: 12px;
+    color: #444;
+    margin: 6px 0;
+}
+
+/* --------------- Scrollbar for tall popups --------------- */
+.mapboxgl-popup-content::-webkit-scrollbar {
+    width: 5px;
+}
+.mapboxgl-popup-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+.mapboxgl-popup-content::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 3px;
 }
