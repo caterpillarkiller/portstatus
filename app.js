@@ -23,7 +23,7 @@ const DEFAULT_COLOR = '#7f8c8d';
 // ---------------------------------------------------------------------------
 // Map initialisation
 // ---------------------------------------------------------------------------
-mapboxgl.accessToken = window.MAPBOX_TOKEN || '';
+mapboxgl.accessToken = CONFIG.mapboxToken;
 
 const map = new mapboxgl.Map({
     container: 'map',
