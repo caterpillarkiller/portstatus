@@ -205,7 +205,7 @@ function buildSubPortPopup(props) {
 // ---------------------------------------------------------------------------
 async function loadPorts() {
     try {
-        const res  = await fetch('/api/ports.geojson');
+        const res  = await fetch('api/ports.geojson');
         portData   = await res.json();
     } catch (e) {
         console.error('Failed to fetch port data', e);
