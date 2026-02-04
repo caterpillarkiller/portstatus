@@ -2,6 +2,17 @@
 
 A simple, interactive map displaying real-time status information for United States Coast Guard monitored ports.
 
+## ⚖️ Legal & Data Usage
+
+This project uses publicly available port status information from the 
+U.S. Coast Guard Navigation Center (NAVCEN). All data is publicly accessible
+and intended for maritime safety.
+
+**Disclaimer:** This is an unofficial tool. Always verify critical 
+information with official USCG sources at https://www.navcen.uscg.gov/
+
+**Data Attribution:** Port status data © United States Coast Guard
+
 ## Project Overview
 
 This web application visualizes port conditions using color-coded markers:
