@@ -17,7 +17,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR CHARLESTON (07-37090)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=CHARLESTON",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -93,7 +93,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR MIAMI (07-37110)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=MIAMI",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -145,7 +145,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR HOUSTON-GALVESTON (08-37170)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=HOUSTON-GALVESTON",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -191,7 +191,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NEW YORK (01-37040)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NEW YORK",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -237,7 +237,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR BOSTON (01-37010)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=BOSTON",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -283,7 +283,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR COLUMBIA RIVER (13-37400)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=COLUMBIA RIVER",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -329,7 +329,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR CORPUS CHRISTI (08-37180)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=CORPUS CHRISTI",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -393,7 +393,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR DELAWARE BAY (05-37050)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=DELAWARE BAY",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -445,7 +445,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR DETROIT (09-33270)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=DETROIT",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -515,7 +515,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=DULUTH",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -603,7 +603,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR EASTERN GREAT LAKES (09-37210)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=EASTERN GREAT LAKES",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -751,7 +751,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR GUAM (14-33296)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=GUAM",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -797,7 +797,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR HONOLULU (14-37340)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=HONOLULU",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -879,7 +879,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=HOUMA",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1033,7 +1033,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR JACKSONVILLE (07-33231)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=JACKSONVILLE",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1073,7 +1073,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR KEY WEST (07-37140)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=KEY WEST",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1101,7 +1101,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR LAKE MICHIGAN (09-37240)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=LAKE MICHIGAN",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1249,7 +1249,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=LONG ISLAND SOUND",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1361,7 +1361,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR LOS ANGELES-LONG BEACH (11-37260)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=LOS ANGELES-LONG BEACH",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1515,7 +1515,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR LOWER MISSISSIPPI RIVER (08-37190)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=LOWER MISSISSIPPI RIVER (MEMPHIS)",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1693,7 +1693,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR MARYLAND-NCR (05-37060)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=MARYLAND-NCR",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1733,7 +1733,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR MOBILE (08-37160)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=MOBILE",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1785,7 +1785,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NEW ORLEANS (08-37150)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NEW ORLEANS",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1867,7 +1867,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NORTH CAROLINA (05-33225)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NORTH CAROLINA",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -1985,7 +1985,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NORTHERN GREAT LAKES (09-37230)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NORTHERN GREAT LAKES",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2067,7 +2067,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR NORTHERN NEW ENGLAND (01-37000)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=NORTHERN NEW ENGLAND (PORTLAND, MAINE)",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2119,7 +2119,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR OHIO VALLEY (08-37200)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=OHIO VALLEY",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2207,7 +2207,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=PITTSBURGH",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2235,7 +2235,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=PORT ARTHUR AND LAKE CHARLES",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2305,7 +2305,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=PRINCE WILLIAM SOUND (VALDEZ)",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2393,7 +2393,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR SAN DIEGO (11-37250)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SAN DIEGO",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2469,7 +2469,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR SAN FRANCISCO (11-37270)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SAN FRANCISCO",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2695,7 +2695,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR SAN JUAN (07-33239)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SAN JUAN",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2861,7 +2861,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SAVANNAH",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2895,7 +2895,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR SOUTHEAST ALASKA (17-37360)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SEAK - SOUTHEAST ALASKA (JUNEAU)",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -2989,7 +2989,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR PUGET SOUND (13-37320)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SEATTLE (PUGET SOUND)",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3095,7 +3095,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR SOUTHEASTERN NEW ENGLAND (01-37020)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=SOUTHEASTERN NEW ENGLAND (PROVIDENCE)",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3201,7 +3201,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=ST. PETERSBURG",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3337,7 +3337,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR UPPER MISSISSIPPI RIVER (08-37390)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=UPPER MISSISSIPPI RIVER (ST. LOUIS)",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3617,7 +3617,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR VIRGINIA (05-37070)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=VIRGINIA",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3681,7 +3681,7 @@
         "marsec_level": "MARSEC 1",
         "sector_info": "SECTOR ANCHORAGE (17-37380)",
         "source_url": "https://www.navcen.uscg.gov/port-status?zone=WESTERN ALASKA (ANCHORAGE)",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": "",
         "sub_ports": [
           {
@@ -3937,7 +3937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-08-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -3957,7 +3957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-08-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -3977,7 +3977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-08-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -3997,7 +3997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-08-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4017,7 +4017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4037,7 +4037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4057,7 +4057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4077,7 +4077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4097,7 +4097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4117,7 +4117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4137,7 +4137,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4157,7 +4157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4177,7 +4177,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4197,7 +4197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-10-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4217,7 +4217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-04-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4237,7 +4237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-10-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4257,7 +4257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-03-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4277,7 +4277,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON NORMAL",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4297,7 +4297,7 @@
         "condition": "NORMAL",
         "comments": "Open- Lighted Buoy #2 remains off station and is not impeding vessel traffic.",
         "last_changed": "2026-01-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4317,7 +4317,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON NORMAL",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4337,7 +4337,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON NORMAL",
         "last_changed": "2024-09-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4357,7 +4357,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON NORMAL",
         "last_changed": "2024-09-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4377,7 +4377,7 @@
         "condition": "NORMAL",
         "comments": "Homeport went inactive before the port reopened\n\r\nPOC: MST2 Brian Ham (361) 939-5124",
         "last_changed": "2005-03-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4397,7 +4397,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON NORMAL",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4417,7 +4417,7 @@
         "condition": "WHISKEY",
         "comments": "Open with Restrictions - * Ref MSIB 04-26 - The U.S. Army Corps of Engineers prescribes C&D canal is closed to all solo vessels without a steel hull and less than 2500HP. Transit is permissible for all craft with a steel hull and at least 1 500HP only when following a 2500HP (or greater) vessel. The canal dispatcher on duty should be contacted regarding conditions and requirements for vessels using the C&D Canal at (410) 855-5580.*",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4437,7 +4437,7 @@
         "condition": "WHISKEY",
         "comments": "Open with Restrictions - Set Winter Port Condition 2: * MSIB 05-26 The Captain of the Port (COTP), Sector Delaware Bay has set Winter Port Condition Two due to the formation of ice of appreciable thickness and coverage in the navigable waters of the Delaware Bay and River, Chesapeake and Delaware (C&D) Canal, Cape May Harbor and Canal, New Jersey Intracoastal Waterway, and Delaware Shore.*",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4457,7 +4457,7 @@
         "condition": "WHISKEY",
         "comments": "Open with Restrictions - Set Winter Port Condition 2: * MSIB 05-26 The Captain of the Port (COTP), Sector Delaware Bay has set Winter Port Condition Two due to the formation of ice of appreciable thickness and coverage in the navigable waters of the Delaware Bay and River, Chesapeake and Delaware (C&D) Canal, Cape May Harbor and Canal, New Jersey Intracoastal Waterway, and Delaware Shore.*",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4477,7 +4477,7 @@
         "condition": "WHISKEY",
         "comments": "Open with Restrictions - Set Winter Condition 2 / Ice Condition 3: * Ref MSIB 04-26 - The Captain of the Port, Sector Delaware Bay has set Ice Condition Three for all waters north of the Tacony-Palmyra bridge. The following restrictions are in effect, only steel hull vessels with a 1,500 minimum shaft horsepower and a main engine cooling system design that prevents blockage from ice, and that are part of a vessel convoy, may enter, operate in, or transit north of the Interstate 95 bridge in Bristol, PA. Vessels may only transit in Ice Condition Three during daylight hours. *",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4497,7 +4497,7 @@
         "condition": "WHISKEY",
         "comments": "Open with Restrictions - Set Winter Port Condition 2:  * MSIB 05-26 The Captain of the Port (COTP), Sector Delaware Bay has set Winter Port Condition Two due to the formation of ice of appreciable thickness and coverage in the navigable waters of the Delaware Bay and River, Chesapeake and Delaware (C&D) Canal, Cape May Harbor and Canal, New Jersey Intracoastal Waterway, and Delaware Shore.*",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4517,7 +4517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4537,7 +4537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4557,7 +4557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-04-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4577,7 +4577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4597,7 +4597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4617,7 +4617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-04-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4637,7 +4637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4657,7 +4657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4677,7 +4677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4697,7 +4697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4717,7 +4717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2016-02-03",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4737,7 +4737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4757,7 +4757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4777,7 +4777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4797,7 +4797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4817,7 +4817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4837,7 +4837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4857,7 +4857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4877,7 +4877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-05-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4897,7 +4897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4917,7 +4917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4937,7 +4937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4957,7 +4957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4977,7 +4977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2016-07-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -4997,7 +4997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5017,7 +5017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5037,7 +5037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5057,7 +5057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2012-07-23",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5077,7 +5077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5097,7 +5097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5117,7 +5117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5137,7 +5137,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5157,7 +5157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5177,7 +5177,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5197,7 +5197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5217,7 +5217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5237,7 +5237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5257,7 +5257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5277,7 +5277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5297,7 +5297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2012-04-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5317,7 +5317,7 @@
         "condition": "WHISKEY",
         "comments": "PHWC WHISKEY Reset - 1300L 13NOV24",
         "last_changed": "2024-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5337,7 +5337,7 @@
         "condition": "WHISKEY",
         "comments": "PHWC WHISKEY Reset - 1300L 13NOV24",
         "last_changed": "2024-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5357,7 +5357,7 @@
         "condition": "WHISKEY",
         "comments": "PHWC WHISKEY RESET - 1030L 13Nov24",
         "last_changed": "2024-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5377,7 +5377,7 @@
         "condition": "WHISKEY",
         "comments": "PHWC WHISKEY RESET - 1030L 13Nov24",
         "last_changed": "2024-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5397,7 +5397,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-05",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5417,7 +5417,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5437,7 +5437,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5457,7 +5457,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5477,7 +5477,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5497,7 +5497,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5517,7 +5517,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-09-05",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5537,7 +5537,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-07-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5557,7 +5557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-07-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5577,7 +5577,7 @@
         "condition": "NORMAL",
         "comments": "Open - Hurricane Seasonal Alert",
         "last_changed": "2025-07-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5597,7 +5597,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 051-24",
         "last_changed": "2024-09-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5617,7 +5617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5637,7 +5637,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 053-24",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5657,7 +5657,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 051-24",
         "last_changed": "2024-09-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5677,7 +5677,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 049-24",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5697,7 +5697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5717,7 +5717,7 @@
         "condition": "NORMAL",
         "comments": "MSIB's 044-24 and 046-24",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5737,7 +5737,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 052-24",
         "last_changed": "2024-09-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5757,7 +5757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5777,7 +5777,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 051-24",
         "last_changed": "2024-09-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5797,7 +5797,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 051-24",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5817,7 +5817,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 048-24",
         "last_changed": "2024-09-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5837,7 +5837,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 048-24",
         "last_changed": "2024-09-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5857,7 +5857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5877,7 +5877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5897,7 +5897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-08-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5917,7 +5917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-08-31",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5937,7 +5937,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 048-24",
         "last_changed": "2024-09-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5957,7 +5957,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 051-24",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5977,7 +5977,7 @@
         "condition": "NORMAL",
         "comments": "MSIB 051-24",
         "last_changed": "2024-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -5997,7 +5997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-09-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6017,7 +6017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-09-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6037,7 +6037,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 34-24",
         "last_changed": "2024-12-15",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6057,7 +6057,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - SEE MSIB 34-24",
         "last_changed": "2024-12-15",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6077,7 +6077,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 31-24",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6097,7 +6097,7 @@
         "condition": "NORMAL",
         "comments": "SEE MSIB 31-24",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6117,7 +6117,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Five - MSIB 065-25",
         "last_changed": "2025-12-24",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6137,7 +6137,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Five - MSIB 065-25",
         "last_changed": "2025-12-24",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6157,7 +6157,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Five - MSIB 065-25",
         "last_changed": "2025-12-24",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6177,7 +6177,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON IV",
         "last_changed": "2025-05-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6197,7 +6197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6217,7 +6217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6237,7 +6237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6257,7 +6257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6277,7 +6277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6297,7 +6297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6317,7 +6317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6337,7 +6337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6357,7 +6357,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6377,7 +6377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6397,7 +6397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6417,7 +6417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6437,7 +6437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6457,7 +6457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6477,7 +6477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6497,7 +6497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6517,7 +6517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6537,7 +6537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6557,7 +6557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6577,7 +6577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6597,7 +6597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6617,7 +6617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6637,7 +6637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6657,7 +6657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6677,7 +6677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6697,7 +6697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6717,7 +6717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6737,7 +6737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6757,7 +6757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6777,7 +6777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6797,7 +6797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6817,7 +6817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6837,7 +6837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6857,7 +6857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6877,7 +6877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6897,7 +6897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6917,7 +6917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6937,7 +6937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6957,7 +6957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6977,7 +6977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -6997,7 +6997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7017,7 +7017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-11-03",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7037,7 +7037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7057,7 +7057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7077,7 +7077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7097,7 +7097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7117,7 +7117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7137,7 +7137,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-11-03",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7157,7 +7157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7177,7 +7177,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7197,7 +7197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7217,7 +7217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7237,7 +7237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:32",
         "nextUpdate": ""
       }
     },
@@ -7257,7 +7257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7277,7 +7277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7297,7 +7297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7317,7 +7317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7337,7 +7337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2018-06-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7357,7 +7357,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7377,7 +7377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7397,7 +7397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7417,7 +7417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7437,7 +7437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7457,7 +7457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7477,7 +7477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7497,7 +7497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7517,7 +7517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7537,7 +7537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7557,7 +7557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7577,7 +7577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7597,7 +7597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7617,7 +7617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7637,7 +7637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7657,7 +7657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7677,7 +7677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7697,7 +7697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7717,7 +7717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7737,7 +7737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7757,7 +7757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7777,7 +7777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7797,7 +7797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7817,7 +7817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7837,7 +7837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7857,7 +7857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-05-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7877,7 +7877,7 @@
         "condition": "WHISKEY",
         "comments": "Open w/Restrictions: Ice Condition One set for Zones 3 & 5 Only steel hull vessels are allowed to enter, operate in, or transit. Ice Condition Two set for Zone 1 Only steel hull vessels with a minimum of 1500HP are allowed to enter, operate in, or transit. Refer to 33 CFR 165.550 for Zone Boundaries. MSIB 04-26 UPDATE 03.",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7897,7 +7897,7 @@
         "condition": "WHISKEY",
         "comments": "Open w/Restrictions: Ice Condition Two set for Wicomico River and Tangier Sound. Only steel hull vessels with a minimum of 1500HP are allowed to enter, operate in, or transit. Ice Condition One set for remainder of Zone 4 Only steel hull vessels are allowed to enter, operate in, or transit. Refer to 33 CFR 165.550 for Zone Boundaries. MSIB 04-26 UPDATE 03.",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7917,7 +7917,7 @@
         "condition": "WHISKEY",
         "comments": "Open w/Restrictions: Ice Condition Two set for Zone 6 Only steel hull vessels with a minimum of 1500HP are allowed to enter, operate in, or transit. Ice Condition One set for Zone 5 Only steel hull vessels are allowed to enter, operate in, or transit. Refer to 33 CFR 165.550 for Zone Boundaries. MSIB 04-26 UPDATE 03.",
         "last_changed": "2026-02-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7937,7 +7937,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - Port Condition IV MSIB22-029 for Restrictions",
         "last_changed": "2025-05-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7957,7 +7957,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2025-05-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7977,7 +7977,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2025-05-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -7997,7 +7997,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2025-05-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8017,7 +8017,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON V",
         "last_changed": "2025-05-26",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8037,7 +8037,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Normal",
         "last_changed": "2024-10-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8057,7 +8057,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Normal",
         "last_changed": "2024-10-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8077,7 +8077,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - 34ft Draft Restriction; See MSIB 59-24",
         "last_changed": "2024-10-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8097,7 +8097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-03-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8117,7 +8117,7 @@
         "condition": "NORMAL",
         "comments": "Port Condition Normal",
         "last_changed": "2024-10-10",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8137,7 +8137,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8157,7 +8157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8177,7 +8177,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8197,7 +8197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8217,7 +8217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8237,7 +8237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8257,7 +8257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8277,7 +8277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8297,7 +8297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8317,7 +8317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8337,7 +8337,7 @@
         "condition": "WHISKEY",
         "comments": "1. THE FOLLOWING ICE INFORMATION BROADCAST HAS BEEN INITIATED:\r\nICE REPORT FOR NEW YORK HARBOR AND HUDSON RIVER:\n\r\n2. LOCATION: TYPE/FORM/THICKNESS/COVERAGE/ESTABLISHED TRACK (Y OR N)/DATE\r\nA. SHREWSBURY/NAVESINK: PLATE, 3-5 INCHES, 100%,\r\nB. SANDY HOOK BAY: BRASH/PLATE, 3 INCHES, 80%\r\nC. LOWER NEW YORK BAY: PLATE, 3 INCHES, 20%\r\nD. UPPER NEW YORK BAY: BRASH/PLATE, 3-6 INCHES, 50%\r\nE. NEWARK BAY: PLATE, 2 INCHES, 30%\r\nF. THROGS NECK BRIDGE: BRASH 3-5 INCHES, 20%\r\nG. GEORGE WASHINGTON BRIDGE: PLATE/BRASH, 3-6 INCHES, 70%\r\nH. TAPPAN ZEE TO WEST POINT: PLATE/BRASH, 3-8 INCHES, 100%\r\nI. WEST POINT TO NEWBURGH: PLATE/BRASH, 4-8 INCHES, 4-5, 80%\r\nJ. NEWBURGH TO POUGHKEEPSIE: PLATE/BRASH, 3-8 INCHES, 90%\r\nK. POUGHKEEPSIE TO KINGSTON: PLATE, 5-8 INCHES, 90%\r\nL. KINGSTON TO CATSKILL: PLATE, 5-8 INCHES, 100%\r\nM. CATSKILL TO ALBANY: PLATE/BRASH, 5-8 INCHES, 100%\r\nN. ALBANY TO TROY: PLATE, 7-8 INCHES 100%\r\nO. OTHER PORT OF ALBANY: FRAZIL/PLATE/BRASH, 6-8 INCHES, 100%\n\r\n3. THE CURRENT CONDITIONS OF THE FOLLOWING MEETING AREAS AND CHOKEPOINTS:\r\nA. WEST POINT: BRASH, 7-8 INCHES, 100%\r\nB. STORM KING: PLATE/BRASH, 7-8 INCHES, 100%\r\nC. CRUM ELBOW: PLATE, 4-8 INCHES, 90%,\r\nD. HYDE PARK: PLATE, 4-8 INCHES, 100%,\r\nE. ESOPUS MEADOWS: BRASH, 4-8 INCHES, 90%\r\nF. SILVER POINT: PLATE, 5-8 INCHES 100%,\r\nG. HUDSON ANCHORAGE: PLATE, 7-8 INCHES 70%,\r\nH. STUYVESANT ANCHORAGE: PLATE, 4-8 INCHES, 90%,\n\r\n4. PENDING ATON DISCREPANCIES:\r\nA) Hudson River Lighted Buoy 84 has been re-names Hudson River Lighted Buoy 86A.\r\nB) Wanton Island Sector Light is extinguished.\r\nC) Hudson River Lighted Buoy 52 is extinguished.\r\nD) Hudson River Lighted Buoy 59 is extinguished.\r\nE) Hudson River Lighted Buoy 74 is extinguished.\r\nF) Hudson River Lighted Buoy 89 is extinguished.\r\nG) Hudson River Shoal Lighted Buoy A is extinguished.\r\nH) Hudson River Shoal Lighted Buoy B is extinguished.\r\nI) Hogs Back North Lighted Buoy 35 is extinguished.\r\nJ) Hudson River Lighted Buoy 94 is extinguished.\r\nK) Hudson River Lighted Buoy 98 is extinguished.\r\nL) Hudson River Lighted Buoy 117 is extinguished.\r\nM) Hudson River Lighted Buoy 119 is extinguished.\r\nN) Hudson River Lighted Buoy 154 is extinguished.\r\nO) Hudson River Lighted Buoy 4 is extinguished.\r\nP) Hudson River Lighted Buoy 15 is off-station.\r\nQ) Hudson River Lighted Buoy 18 is off-station.\n\r\n5. OPERATING RESTRICTIONS: VESSELS OF LESS THAN 3,000 HP ENGAGED IN TOWING OPERATIONS ARE NOT AUTHORITIZED TO TRANSIT THE HUDSON RIVER BETWEEN THE TAPPAN ZEE/GOVERNOR CUOMO BRIDGE AND DUNN MEMORIAL BRIDGE UNLESS SPECIFICIALLY AUTHORIZED BY THE COTP NEW YORK. VESSELS SEEKING TO TRANSIT THIS AREA CAN CONTACT THE VESSEL TRAFFIC SERVICE AT (718) 354-4088\n\r\n6. THESE ICE CONDITIONS ARE ESTIMATED AND MAY BE WORSE IN NATURAL CHOKE POINTS AND OUTSIDE THE NAVIGABLE TRACK MAINTAINED BY COAST GUARD ICEBREAKERS. DAILY ICE REPORTS, OVER FLIGHT PICTURES, AND ADDITIONAL ICE RELATED INFORMATION CAN BE FOUND AT THE SECTOR NEW YORK HOMEPORT WEBSITE. SECTOR NEW YORK CAN BE REACHED AT 718-354-4356.",
         "last_changed": "2026-02-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8397,7 +8397,7 @@
         "condition": "WHISKEY",
         "comments": "1. THE FOLLOWING ICE INFORMATION BROADCAST HAS BEEN INITIATED:\r\nICE REPORT FOR NEW YORK HARBOR AND HUDSON RIVER:\n\r\n2. LOCATION: TYPE/FORM/THICKNESS/COVERAGE/ESTABLISHED TRACK (Y OR N)/DATE\r\nA. SHREWSBURY/NAVESINK: PLATE, 3-5 INCHES, 100%,\r\nB. SANDY HOOK BAY: BRASH/PLATE, 3 INCHES, 80%\r\nC. LOWER NEW YORK BAY: PLATE, 3 INCHES, 20%\r\nD. UPPER NEW YORK BAY: BRASH/PLATE, 3-6 INCHES, 50%\r\nE. NEWARK BAY: PLATE, 2 INCHES, 30%\r\nF. THROGS NECK BRIDGE: BRASH 3-5 INCHES, 20%\r\nG. GEORGE WASHINGTON BRIDGE: PLATE/BRASH, 3-6 INCHES, 70%\r\nH. TAPPAN ZEE TO WEST POINT: PLATE/BRASH, 3-8 INCHES, 100%\r\nI. WEST POINT TO NEWBURGH: PLATE/BRASH, 4-8 INCHES, 4-5, 80%\r\nJ. NEWBURGH TO POUGHKEEPSIE: PLATE/BRASH, 3-8 INCHES, 90%\r\nK. POUGHKEEPSIE TO KINGSTON: PLATE, 5-8 INCHES, 90%\r\nL. KINGSTON TO CATSKILL: PLATE, 5-8 INCHES, 100%\r\nM. CATSKILL TO ALBANY: PLATE/BRASH, 5-8 INCHES, 100%\r\nN. ALBANY TO TROY: PLATE, 7-8 INCHES 100%\r\nO. OTHER PORT OF ALBANY: FRAZIL/PLATE/BRASH, 6-8 INCHES, 100%\n\r\n3. THE CURRENT CONDITIONS OF THE FOLLOWING MEETING AREAS AND CHOKEPOINTS:\r\nA. WEST POINT: BRASH, 7-8 INCHES, 100%\r\nB. STORM KING: PLATE/BRASH, 7-8 INCHES, 100%\r\nC. CRUM ELBOW: PLATE, 4-8 INCHES, 90%,\r\nD. HYDE PARK: PLATE, 4-8 INCHES, 100%,\r\nE. ESOPUS MEADOWS: BRASH, 4-8 INCHES, 90%\r\nF. SILVER POINT: PLATE, 5-8 INCHES 100%,\r\nG. HUDSON ANCHORAGE: PLATE, 7-8 INCHES 70%,\r\nH. STUYVESANT ANCHORAGE: PLATE, 4-8 INCHES, 90%,\n\r\n4. PENDING ATON DISCREPANCIES:\r\nA) Hudson River Lighted Buoy 84 has been re-names Hudson River Lighted Buoy 86A.\r\nB) Wanton Island Sector Light is extinguished.\r\nC) Hudson River Lighted Buoy 52 is extinguished.\r\nD) Hudson River Lighted Buoy 59 is extinguished.\r\nE) Hudson River Lighted Buoy 74 is extinguished.\r\nF) Hudson River Lighted Buoy 89 is extinguished.\r\nG) Hudson River Shoal Lighted Buoy A is extinguished.\r\nH) Hudson River Shoal Lighted Buoy B is extinguished.\r\nI) Hogs Back North Lighted Buoy 35 is extinguished.\r\nJ) Hudson River Lighted Buoy 94 is extinguished.\r\nK) Hudson River Lighted Buoy 98 is extinguished.\r\nL) Hudson River Lighted Buoy 117 is extinguished.\r\nM) Hudson River Lighted Buoy 119 is extinguished.\r\nN) Hudson River Lighted Buoy 154 is extinguished.\r\nO) Hudson River Lighted Buoy 4 is extinguished.\r\nP) Hudson River Lighted Buoy 15 is off-station.\r\nQ) Hudson River Lighted Buoy 18 is off-station.\n\r\n5. OPERATING RESTRICTIONS: VESSELS OF LESS THAN 3,000 HP ENGAGED IN TOWING OPERATIONS ARE NOT AUTHORITIZED TO TRANSIT THE HUDSON RIVER BETWEEN THE TAPPAN ZEE/GOVERNOR CUOMO BRIDGE AND DUNN MEMORIAL BRIDGE UNLESS SPECIFICIALLY AUTHORIZED BY THE COTP NEW YORK. VESSELS SEEKING TO TRANSIT THIS AREA CAN CONTACT THE VESSEL TRAFFIC SERVICE AT (718) 354-4088\n\r\n6. THESE ICE CONDITIONS ARE ESTIMATED AND MAY BE WORSE IN NATURAL CHOKE POINTS AND OUTSIDE THE NAVIGABLE TRACK MAINTAINED BY COAST GUARD ICEBREAKERS. DAILY ICE REPORTS, OVER FLIGHT PICTURES, AND ADDITIONAL ICE RELATED INFORMATION CAN BE FOUND AT THE SECTOR NEW YORK HOMEPORT WEBSITE. SECTOR NEW YORK CAN BE REACHED",
         "last_changed": "2026-02-04",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8417,7 +8417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8437,7 +8437,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8457,7 +8457,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8477,7 +8477,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8497,7 +8497,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8517,7 +8517,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8537,7 +8537,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8557,7 +8557,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8577,7 +8577,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8597,7 +8597,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8617,7 +8617,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8637,7 +8637,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8657,7 +8657,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8677,7 +8677,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8697,7 +8697,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8717,7 +8717,7 @@
         "condition": "NORMAL",
         "comments": "Navigate with caution as shoaling and shifting channel bottoms occur frequently.",
         "last_changed": "2025-08-28",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8737,7 +8737,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2026-01-18",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8757,7 +8757,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2025-04-24",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8777,7 +8777,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2026-01-16",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8797,7 +8797,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2026-01-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8817,7 +8817,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - LIB 98B restricting the channel width",
         "last_changed": "2024-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8837,7 +8837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-11-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8857,7 +8857,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2026-01-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8877,7 +8877,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2025-03-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8897,7 +8897,7 @@
         "condition": "ZULU",
         "comments": "",
         "last_changed": "2025-03-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8917,7 +8917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-11-14",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8937,7 +8937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-09-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8957,7 +8957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-09-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8977,7 +8977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-09-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -8997,7 +8997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-09-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9017,7 +9017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-09-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9037,7 +9037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2011-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9057,7 +9057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2011-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9077,7 +9077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-03-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9097,7 +9097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2011-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9117,7 +9117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2011-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9137,7 +9137,7 @@
         "condition": "NORMAL",
         "comments": "NASHVILLE, CHATTANOOGA, KNOXVILLE, CLARKSVILLE",
         "last_changed": "2021-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9157,7 +9157,7 @@
         "condition": "NORMAL",
         "comments": "IUKA",
         "last_changed": "2021-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9177,7 +9177,7 @@
         "condition": "NORMAL",
         "comments": "FLORENCE, DECATUR, HUNTSVILLE, GUNTERSVILLE",
         "last_changed": "2021-11-12",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9197,7 +9197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2014-12-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9217,7 +9217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-08-08",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9237,7 +9237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2011-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9257,7 +9257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2010-05-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9277,7 +9277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9297,7 +9297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9317,7 +9317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9337,7 +9337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-12-13",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9357,7 +9357,7 @@
         "condition": "WHISKEY",
         "comments": "WITH RESTRICTIONS - Port of Orange is draft restricted to 23 feet.",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9377,7 +9377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9397,7 +9397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9417,7 +9417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-09-11",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9437,7 +9437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-01-16",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9457,7 +9457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9477,7 +9477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9497,7 +9497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9517,7 +9517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9537,7 +9537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9557,7 +9557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-01-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9577,7 +9577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9597,7 +9597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-01-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9617,7 +9617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-12-06",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9637,7 +9637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9657,7 +9657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9677,7 +9677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9697,7 +9697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9717,7 +9717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9737,7 +9737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9757,7 +9757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9777,7 +9777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9797,7 +9797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9817,7 +9817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2025-02-27",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9837,7 +9837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9857,7 +9857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9877,7 +9877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9897,7 +9897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9917,7 +9917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9937,7 +9937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9957,7 +9957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9977,7 +9977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -9997,7 +9997,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10017,7 +10017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10037,7 +10037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10057,7 +10057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10077,7 +10077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10097,7 +10097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10117,7 +10117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10137,7 +10137,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10157,7 +10157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10177,7 +10177,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10197,7 +10197,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10217,7 +10217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10237,7 +10237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10257,7 +10257,7 @@
         "condition": "NORMAL",
         "comments": "Rio Vista Bridge fixed",
         "last_changed": "2018-09-20",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10277,7 +10277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10297,7 +10297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10317,7 +10317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10337,7 +10337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10357,7 +10357,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10377,7 +10377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10397,7 +10397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10417,7 +10417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10437,7 +10437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10457,7 +10457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10477,7 +10477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10497,7 +10497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2017-05-22",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10517,7 +10517,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-09-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10537,7 +10537,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-08-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10557,7 +10557,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-08-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10577,7 +10577,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-08-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10597,7 +10597,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-08-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10617,7 +10617,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-08-17",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10637,7 +10637,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10657,7 +10657,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10677,7 +10677,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10697,7 +10697,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10717,7 +10717,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10737,7 +10737,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10757,7 +10757,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10777,7 +10777,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10797,7 +10797,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10817,7 +10817,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10837,7 +10837,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10857,7 +10857,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10877,7 +10877,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10897,7 +10897,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10917,7 +10917,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10937,7 +10937,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10957,7 +10957,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10977,7 +10977,7 @@
         "condition": "NORMAL",
         "comments": "PORTCON FIVE",
         "last_changed": "2025-12-02",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -10997,7 +10997,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN NO RESTRICTIONS",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11017,7 +11017,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN NO RESTRICTIONS",
         "last_changed": "2025-09-30",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11037,7 +11037,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11057,7 +11057,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11077,7 +11077,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11097,7 +11097,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11117,7 +11117,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11137,7 +11137,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11157,7 +11157,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11177,7 +11177,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11197,7 +11197,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11217,7 +11217,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11237,7 +11237,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11257,7 +11257,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN with NO restrictions",
         "last_changed": "2025-09-19",
-        "lastUpdated": "2026-02-05 23:19:58",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11277,7 +11277,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11297,7 +11297,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11317,7 +11317,7 @@
         "condition": "NORMAL",
         "comments": "Minor debris floating in area, no flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11337,7 +11337,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11357,7 +11357,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11377,7 +11377,7 @@
         "condition": "NORMAL",
         "comments": "Minor debris floating in area; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11397,7 +11397,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11417,7 +11417,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11437,7 +11437,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11457,7 +11457,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11477,7 +11477,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11497,7 +11497,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11517,7 +11517,7 @@
         "condition": "NORMAL",
         "comments": "Minor debris floating in area; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11537,7 +11537,7 @@
         "condition": "NORMAL",
         "comments": "No debris or flooding; No MTS impacts.",
         "last_changed": "2026-01-06",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11557,7 +11557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11577,7 +11577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-08-23",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11597,7 +11597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11617,7 +11617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11637,7 +11637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-08-23",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11657,7 +11657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11677,7 +11677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11697,7 +11697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11717,7 +11717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11737,7 +11737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11757,7 +11757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11777,7 +11777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11797,7 +11797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11817,7 +11817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-06-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11837,7 +11837,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11857,7 +11857,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11877,7 +11877,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11897,7 +11897,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11917,7 +11917,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11937,7 +11937,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11957,7 +11957,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11977,7 +11977,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -11997,7 +11997,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12017,7 +12017,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12037,7 +12037,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12057,7 +12057,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12077,7 +12077,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12097,7 +12097,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12117,7 +12117,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12137,7 +12137,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12157,7 +12157,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12177,7 +12177,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12197,7 +12197,7 @@
         "condition": "NORMAL",
         "comments": "PORT CONDITION V",
         "last_changed": "2024-12-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12217,7 +12217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-09-16",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12237,7 +12237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12257,7 +12257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-12",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12277,7 +12277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-12",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12297,7 +12297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-12",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12317,7 +12317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-02-26",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12337,7 +12337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2022-06-29",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12357,7 +12357,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-07-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12377,7 +12377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-07-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12397,7 +12397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-07-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12417,7 +12417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-06-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12437,7 +12437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12457,7 +12457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-09-16",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12477,7 +12477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-07-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12497,7 +12497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12517,7 +12517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12537,7 +12537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12557,7 +12557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12577,7 +12577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-17",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12597,7 +12597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-14",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12617,7 +12617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12637,7 +12637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12657,7 +12657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-12",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12677,7 +12677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-17",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12697,7 +12697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-17",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12717,7 +12717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-14",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12737,7 +12737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-21",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12757,7 +12757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-21",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12777,7 +12777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-23",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12797,7 +12797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-22",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12817,7 +12817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-07-02",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12837,7 +12837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-07-03",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12857,7 +12857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2020-04-03",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12877,7 +12877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-13",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12897,7 +12897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-04-13",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12917,7 +12917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12937,7 +12937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12957,7 +12957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2021-06-04",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12977,7 +12977,7 @@
         "condition": "NORMAL",
         "comments": "Status OPEN",
         "last_changed": "2025-08-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -12997,7 +12997,7 @@
         "condition": "WHISKEY",
         "comments": "Open With Restrictions - Navigation channel open to vessel traffic. Safety Zone remains in effect from MM 199.5-200.5 extending 450 Feet from the RDB.",
         "last_changed": "2025-08-08",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13017,7 +13017,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-05-25",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13037,7 +13037,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-05-25",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13057,7 +13057,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2023-05-25",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13077,7 +13077,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13097,7 +13097,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13117,7 +13117,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-02-01",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13137,7 +13137,7 @@
         "condition": "WHISKEY",
         "comments": "OPEN WITH RESTRICTIONS - Winter Port Condition Two (MSIB 011-26) IAW 33CFR165.550, vessels are required to meet specific ice restrictions to operate. Vessels must have the proper hull type and an adequate propulsion system meeting the minimum horsepower requirements imposed.",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13157,7 +13157,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13177,7 +13177,7 @@
         "condition": "NORMAL",
         "comments": "Winter Port Condition One: Mariners observing any ice conditions are asked to report them to Virgniawaterways@uscg.mil",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13197,7 +13197,7 @@
         "condition": "NORMAL",
         "comments": "Winter Port Condition One:  Mariners observing any ice conditions are asked to report them to Virgniawaterways@uscg.mil",
         "last_changed": "2026-01-31",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13217,7 +13217,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13237,7 +13237,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13257,7 +13257,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13277,7 +13277,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13297,7 +13297,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13317,7 +13317,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13337,7 +13337,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13357,7 +13357,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13377,7 +13377,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13397,7 +13397,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13417,7 +13417,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13437,7 +13437,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13457,7 +13457,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13477,7 +13477,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13497,7 +13497,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13517,7 +13517,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13537,7 +13537,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13557,7 +13557,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13577,7 +13577,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13597,7 +13597,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13617,7 +13617,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13637,7 +13637,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13657,7 +13657,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13677,7 +13677,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13697,7 +13697,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13717,7 +13717,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13737,7 +13737,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13757,7 +13757,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13777,7 +13777,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13797,7 +13797,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13817,7 +13817,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13837,7 +13837,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13857,7 +13857,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13877,7 +13877,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13897,7 +13897,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13917,7 +13917,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13937,7 +13937,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13957,7 +13957,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     },
@@ -13977,7 +13977,7 @@
         "condition": "NORMAL",
         "comments": "",
         "last_changed": "2024-01-09",
-        "lastUpdated": "2026-02-05 23:19:59",
+        "lastUpdated": "2026-02-06 01:17:33",
         "nextUpdate": ""
       }
     }
