@@ -978,7 +978,6 @@ PORT_COORDINATES = {
     "WHITTIER": {"lat": 60.782278, "lon": -148.720719},
     "Whitefish Bay": {"lat": 43.127650, "lon": -87.912991},
     "YORKTOWN - CHEATHAM ANNEX - WEST POINT": {"lat": 37.235666, "lon": -76.513649},
-},
     "ADAK": {"lat": 51.873613, "lon": -176.639032},
     "AFOGNAK": {"lat": 58.007217, "lon": -152.769410},
     "AICW - BEAUFORT TO CAPE FEAR": {"lat": 34.719033, "lon": -76.693383},
