@@ -49,3 +49,50 @@ Maintain a "Changelog" section in the Notion subpage. Append entries in reverse 
 - **[Abandoned]** Short description of approaches tried and discarded, and why
 
 Never delete previous changelog entries. This is a permanent working history of the project.
+
+---
+
+## Notion & Asana MCP Setup
+
+The session-start workflow above requires Notion and Asana MCP servers to be configured. Without them, Claude cannot read project context or update tasks automatically.
+
+To enable this integration, add the following to your Claude Code MCP config (`~/.claude.json` → `mcpServers`, or your project-level `.mcp.json`):
+
+```json
+{
+  "mcpServers": {
+    "notion": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer YOUR_NOTION_TOKEN\", \"Notion-Version\": \"2022-06-28\"}"
+      }
+    },
+    "asana": {
+      "command": "npx",
+      "args": ["-y", "asana-mcp-server"],
+      "env": {
+        "ASANA_ACCESS_TOKEN": "YOUR_ASANA_TOKEN"
+      }
+    }
+  }
+}
+```
+
+Until MCP servers are configured, Notion/Asana steps in the workflow above will be skipped with a note to the user.
+
+---
+
+## Changelog
+
+### [2026-03-16] — Security & Bug Audit Session
+- **[Bug Fix]** Implemented three missing `PortStatusDB` methods (`get_all_history`, `get_all_latest_statuses`, `get_status_changes`) that caused `export_history.py` to crash with `AttributeError` on every call
+- **[Bug Fix]** Fixed XSS vulnerability in Mapbox popup HTML — NAVCEN comments now pass through `escapeHtml()` before insertion in both `buildZonePopup()` and `buildSubPortPopup()`
+- **[Feature]** Added Mapbox token validation at startup — missing/invalid `config.js` now shows a user-visible error instead of silent failure
+- **[Bug Fix]** Fixed database timestamps — all `DEFAULT (datetime('now'))` expressions changed to `DEFAULT (datetime('now', 'utc'))` for consistent UTC storage
+- **[Bug Fix]** Enhanced NAVCEN scrape-failure logging in `update_ports.py` — failures now emit a timestamped `[SCRAPE FAILURE]` and `[STALE DATA]` marker visible in CI/CD logs
+- **[Bug Fix]** Increased Nominatim rate-limit delay from 1.1s to 1.5s ±0.5s jitter in `auto_geocode_ports.py` to stay safely within ToS
+- **[Bug Fix]** Improved exception handling in `auto_geocode_ports.py` geocoder — now distinguishes network errors, timeouts, and response parse failures
+- **[Bug Fix]** Added coordinate bounds validation in `import_from_kml.py` — out-of-range lat/lon values are now skipped with a warning
+- **[Refactor]** Moved `import math` from inside `calculate_distance()` to top-level imports in `import_from_kml.py`
+- **[Feature]** Created `AUDIT_REPORT.md` as a permanent record of all findings and fixes

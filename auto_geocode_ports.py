@@ -16,13 +16,17 @@ Usage:
 import json
 import time
 import re
+import random
 from typing import Dict, Optional, Tuple
 from urllib.request import urlopen, Request
+from urllib.error import URLError
 from urllib.parse import quote
 from datetime import datetime
 
-# Rate limiting - Nominatim requires 1 request per second
-DELAY_BETWEEN_REQUESTS = 1.1
+# Rate limiting - Nominatim ToS: no more than 1 request/second.
+# Use 1.5s base + random jitter to stay safely within limits.
+DELAY_BETWEEN_REQUESTS = 1.5
+DELAY_JITTER = 0.5  # actual sleep = DELAY_BETWEEN_REQUESTS + random.uniform(-JITTER, +JITTER)
 
 # User agent is required by Nominatim
 USER_AGENT = "USCG-Port-Status-Monitor/1.0"
@@ -227,8 +231,17 @@ def geocode_location(search_query: str) -> Optional[Tuple[float, float]]:
         
         return None
     
+    except URLError as e:
+        print(f"   ⚠️  Network error contacting Nominatim: {e}")
+        return None
+    except TimeoutError as e:
+        print(f"   ⚠️  Nominatim request timed out: {e}")
+        return None
+    except (json.JSONDecodeError, KeyError, ValueError) as e:
+        print(f"   ⚠️  Unexpected Nominatim response format: {e}")
+        return None
     except Exception as e:
-        print(f"   ⚠️  Geocoding error: {e}")
+        print(f"   ⚠️  Geocoding error (unexpected): {e}")
         return None
 
 
@@ -248,9 +261,9 @@ def geocode_port(port: dict) -> Optional[Tuple[float, float]]:
         
         if coords:
             return coords
-        
-        # Rate limiting
-        time.sleep(DELAY_BETWEEN_REQUESTS)
+
+        # Rate limiting with jitter to stay within Nominatim ToS
+        time.sleep(DELAY_BETWEEN_REQUESTS + random.uniform(-DELAY_JITTER, DELAY_JITTER))
     
     return None
 

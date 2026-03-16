@@ -18,6 +18,7 @@ Usage:
 """
 
 import argparse
+import math
 import re
 from xml.etree import ElementTree as ET
 
@@ -94,15 +95,20 @@ def parse_kml_file(kml_file):
         try:
             lon = float(parts[0])
             lat = float(parts[1])
-            
-            # Store coordinates
-            coordinates[name] = {
-                "lat": lat,
-                "lon": lon
-            }
         except ValueError:
             skipped.append(name)
             continue
+
+        if not (-90 <= lat <= 90 and -180 <= lon <= 180):
+            print(f"   ⚠️  Skipping '{name}': coordinates out of range (lat={lat}, lon={lon})")
+            skipped.append(name)
+            continue
+
+        # Store coordinates
+        coordinates[name] = {
+            "lat": lat,
+            "lon": lon
+        }
     
     print(f"✅ Found {len(coordinates)} ports with coordinates")
     
@@ -288,7 +294,6 @@ def calculate_distance(coord1, coord2):
     
     # Rough conversion: 1 degree ≈ 111 km
     # Adjust longitude by latitude
-    import math
     avg_lat = (coord1['lat'] + coord2['lat']) / 2
     lon_km = lon_diff * 111 * math.cos(math.radians(avg_lat))
     lat_km = lat_diff * 111
