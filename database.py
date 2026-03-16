@@ -45,7 +45,7 @@ class PortStatusDB:
                 marsec_level TEXT,
                 sector_info  TEXT,
                 source_url   TEXT,
-                created_at   TEXT DEFAULT (datetime('now'))
+                created_at   TEXT DEFAULT (datetime('now', 'utc'))
             );
 
             CREATE TABLE IF NOT EXISTS sub_ports (
@@ -54,7 +54,7 @@ class PortStatusDB:
                 port_name    TEXT NOT NULL,
                 latitude     REAL NOT NULL,
                 longitude    REAL NOT NULL,
-                created_at   TEXT DEFAULT (datetime('now')),
+                created_at   TEXT DEFAULT (datetime('now', 'utc')),
                 UNIQUE(zone_id, port_name)
             );
 
@@ -66,7 +66,7 @@ class PortStatusDB:
                 comments     TEXT,
                 last_changed TEXT,
                 marsec_level TEXT,
-                recorded_at  TEXT DEFAULT (datetime('now'))
+                recorded_at  TEXT DEFAULT (datetime('now', 'utc'))
             );
 
             CREATE INDEX IF NOT EXISTS idx_status_zone
@@ -190,4 +190,89 @@ class PortStatusDB:
             ) h ON sp.subport_id = h.subport_id
             ORDER BY z.zone_name, sp.port_name
         """).fetchall()
+        return [dict(r) for r in rows]
+
+    # ------------------------------------------------------------------
+    # export helpers used by export_history.py
+    # ------------------------------------------------------------------
+    def get_all_history(self, days: int = None) -> List[Dict]:
+        """All status history records, optionally filtered to the last N days."""
+        if days is not None:
+            rows = self.conn.execute("""
+                SELECT sh.history_id, sh.condition, sh.comments, sh.last_changed,
+                       sh.marsec_level, sh.recorded_at,
+                       COALESCE(sp.port_name, z.zone_name) AS port_name,
+                       z.zone_name, z.source_url,
+                       COALESCE(sp.latitude, z.latitude) AS latitude,
+                       COALESCE(sp.longitude, z.longitude) AS longitude
+                FROM status_history sh
+                LEFT JOIN cotp_zones z ON sh.zone_id = z.zone_id
+                LEFT JOIN sub_ports sp ON sh.subport_id = sp.subport_id
+                WHERE sh.recorded_at >= datetime('now', ?, 'utc')
+                ORDER BY sh.recorded_at DESC
+            """, (f'-{days} days',)).fetchall()
+        else:
+            rows = self.conn.execute("""
+                SELECT sh.history_id, sh.condition, sh.comments, sh.last_changed,
+                       sh.marsec_level, sh.recorded_at,
+                       COALESCE(sp.port_name, z.zone_name) AS port_name,
+                       z.zone_name, z.source_url,
+                       COALESCE(sp.latitude, z.latitude) AS latitude,
+                       COALESCE(sp.longitude, z.longitude) AS longitude
+                FROM status_history sh
+                LEFT JOIN cotp_zones z ON sh.zone_id = z.zone_id
+                LEFT JOIN sub_ports sp ON sh.subport_id = sp.subport_id
+                ORDER BY sh.recorded_at DESC
+            """).fetchall()
+        return [dict(r) for r in rows]
+
+    def get_all_latest_statuses(self) -> List[Dict]:
+        """Current (most-recent) status for every sub-port across all zones."""
+        rows = self.conn.execute("""
+            SELECT sp.port_name, z.zone_name, z.source_url,
+                   sp.latitude, sp.longitude,
+                   h.condition, h.comments AS details, h.marsec_level,
+                   h.recorded_at
+            FROM sub_ports sp
+            JOIN cotp_zones z ON sp.zone_id = z.zone_id
+            LEFT JOIN (
+                SELECT subport_id, condition, comments, marsec_level, recorded_at
+                FROM status_history
+                WHERE subport_id IS NOT NULL
+                GROUP BY subport_id
+                HAVING recorded_at = MAX(recorded_at)
+            ) h ON sp.subport_id = h.subport_id
+            ORDER BY z.zone_name, sp.port_name
+        """).fetchall()
+        return [dict(r) for r in rows]
+
+    def get_status_changes(self, days: int = 7) -> List[Dict]:
+        """
+        Return rows where a sub-port's condition differed from its previous
+        recorded condition, within the last N days.
+        """
+        rows = self.conn.execute("""
+            SELECT cur.port_name, cur.zone_name,
+                   prev_h.condition AS old_condition,
+                   cur_h.condition AS new_condition,
+                   cur_h.recorded_at AS change_time
+            FROM (
+                SELECT sp.subport_id, sp.port_name, z.zone_name
+                FROM sub_ports sp
+                JOIN cotp_zones z ON sp.zone_id = z.zone_id
+            ) cur
+            JOIN status_history cur_h ON cur_h.subport_id = cur.subport_id
+            LEFT JOIN status_history prev_h
+                ON prev_h.subport_id = cur.subport_id
+                AND prev_h.history_id = (
+                    SELECT history_id FROM status_history
+                    WHERE subport_id = cur.subport_id
+                      AND history_id < cur_h.history_id
+                    ORDER BY history_id DESC
+                    LIMIT 1
+                )
+            WHERE cur_h.recorded_at >= datetime('now', ?, 'utc')
+              AND (prev_h.condition IS NULL OR prev_h.condition != cur_h.condition)
+            ORDER BY cur_h.recorded_at DESC
+        """, (f'-{days} days',)).fetchall()
         return [dict(r) for r in rows]

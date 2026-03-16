@@ -21,8 +21,31 @@ const STATUS_COLORS = {
 const DEFAULT_COLOR = '#7f8c8d';
 
 // ---------------------------------------------------------------------------
+// Utility – escape HTML special characters to prevent XSS
+// ---------------------------------------------------------------------------
+function escapeHtml(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+}
+
+// ---------------------------------------------------------------------------
 // Map initialisation
 // ---------------------------------------------------------------------------
+if (!window.CONFIG || !CONFIG.mapboxToken) {
+    document.addEventListener('DOMContentLoaded', () => {
+        const container = document.getElementById('map');
+        if (container) {
+            container.innerHTML = '<p style="color:red;padding:20px;font-family:sans-serif;">' +
+                '<strong>Configuration Error:</strong> Mapbox token not found. ' +
+                'Please create a <code>config.js</code> file with your Mapbox token. ' +
+                'See README for instructions.</p>';
+        }
+    });
+    throw new Error('Mapbox token required — create config.js with CONFIG.mapboxToken');
+}
+
 mapboxgl.accessToken = CONFIG.mapboxToken;
 
 const map = new mapboxgl.Map({
@@ -115,7 +138,7 @@ function buildZonePopup(props) {
             </tr>`;
             if (sp.comments) {
                 html += `<tr>
-                    <td colspan="2" style="padding:1px 0 3px 15px;font-size:11px;color:#666;font-style:italic;">${sp.comments}</td>
+                    <td colspan="2" style="padding:1px 0 3px 15px;font-size:11px;color:#666;font-style:italic;">${escapeHtml(sp.comments)}</td>
                 </tr>`;
             }
         }
@@ -165,7 +188,7 @@ function buildSubPortPopup(props) {
     // Comments / notes from NAVCEN
     if (props.comments) {
         html += `<div style="margin:6px 0;padding:6px 8px;background:#f7f7f7;border-left:3px solid ${STATUS_COLORS[props.condition] || DEFAULT_COLOR};border-radius:0 4px 4px 0;font-size:12px;color:#444;">
-            <strong>Notes:</strong> ${props.comments}
+            <strong>Notes:</strong> ${escapeHtml(props.comments)}
         </div>`;
     }
 

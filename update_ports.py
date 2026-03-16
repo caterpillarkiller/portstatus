@@ -131,7 +131,10 @@ def update_ports():
     zones_data = scraper.scrape_all_zones()
 
     if not zones_data:
-        print("❌ No data scraped.  Attempting GeoJSON from existing DB …")
+        scrape_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+        print(f"❌ [SCRAPE FAILURE] {scrape_time} — No data returned from NAVCEN.")
+        print("   Possible causes: network error, NAVCEN site down, or HTML structure changed.")
+        print("   ⚠️  [STALE DATA] Regenerating GeoJSON from last known DB state …")
         generate_geojson()
         return
 
